@@ -23,3 +23,4 @@ You can start a development server with :
 grunt server
 ```
 
+This will open your browser to the index.html page and live reload the whole page when you change something.
